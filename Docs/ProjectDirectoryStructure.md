@@ -2,7 +2,9 @@
 
 Lee, K. Ernest. Online discussion. “Project directory structure.” 28 Apr. 2012 #wizardslair on irc.afternet.org. 28 Apr. 2012.
 
-2012-04-28 5:13 PM \<BlackBird\> Think of P as at the main project dir. 
+2012-04-28 5:13 PM
+
+\<BlackBird\> Think of P as at the main project dir. 
 
 * P/Dev/ (where dev happens) 
 * P/Run/ (where testing happens)   
